@@ -1,5 +1,5 @@
 # Hyper-graph Matching
-This is the MATLAB code for reproducing game theoretical hyper-graph matching results of paper [Game theoretic hypergraph matching for multi-source image correspondences](https://www.sciencedirect.com/science/article/pii/S0167865516301738).
+This is the MATLAB code for reproducing hyper-graph matching results of paper [Game theoretic hypergraph matching for multi-source image correspondences](https://www.sciencedirect.com/science/article/pii/S0167865516301738).
 
 # Citation
 All code is provided for research purposes only. If you use the code in your research work, please cite the following paper: 
