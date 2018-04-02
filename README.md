@@ -2,34 +2,15 @@
 This is a demo for reproducing hyper-graph matching of multi-source images.
 
 # License and Citation
-All code is provided for research purposes only and without any warranty. Any commercial use requires our consent. When using the code in your research work, please cite the following paper: <br>
-`@article{hz17HyperGraphMatch,` <br>
-  `title     = {Game theoretic hypergraph matching for multi-source image correspondences},` <br>
-  `author    = {Zhang, He and Ren, Peng},` <br>
-  `journal   = {Pattern Recognition Letters},` <br>
-  `volume    = {87},` <br>
-  `pages     = {87--95},` <br>
-  `year      = {2017},` <br>
-  `publisher = {Elsevier}` <br>
-`}` <br>
+All code is provided for research purposes only and without any warranty. Any commercial use requires our consent. When using the code in your research work, please cite the following paper: 
 
-@article{hz17HyperGraphMatch, <br>
-  title     = {Game theoretic hypergraph matching for multi-source image correspondences}, <br>
-  author    = {Zhang, He and Ren, Peng}, <br>
-  journal   = {Pattern Recognition Letters}, <br>
-  volume    = {87}, <br>
-  pages     = {87--95}, <br>
-  year      = {2017}, <br>
-  publisher = {Elsevier} <br>
-} <br>
-
-    @article{hz17HyperGraphMatch, <br>
-      title     = {Game theoretic hypergraph matching for multi-source image correspondences}, <br>
-      author    = {Zhang, He and Ren, Peng}, <br>
-      journal   = {Pattern Recognition Letters}, <br>
-      volume    = {87}, <br>
-      pages     = {87--95}, <br>
-      year      = {2017}, <br>
-      publisher = {Elsevier} <br>
-    } <br>
+    @article{hz17HyperGraphMatch, 
+      title     = {Game theoretic hypergraph matching for multi-source image correspondences}, 
+      author    = {Zhang, He and Ren, Peng}, 
+      journal   = {Pattern Recognition Letters}, 
+      volume    = {87}, 
+      pages     = {87--95}, 
+      year      = {2017}, 
+      publisher = {Elsevier} 
+    } 
 
