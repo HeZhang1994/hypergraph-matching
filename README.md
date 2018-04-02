@@ -23,3 +23,13 @@ All code is provided for research purposes only and without any warranty. Any co
   publisher = {Elsevier} <br>
 } <br>
 
+  @article{hz17HyperGraphMatch, <br>
+    title     = {Game theoretic hypergraph matching for multi-source image correspondences}, <br>
+    author    = {Zhang, He and Ren, Peng}, <br>
+    journal   = {Pattern Recognition Letters}, <br>
+    volume    = {87}, <br>
+    pages     = {87--95}, <br>
+    year      = {2017}, <br>
+    publisher = {Elsevier} <br>
+  } <br>
+
