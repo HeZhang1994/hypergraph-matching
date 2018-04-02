@@ -1,4 +1,4 @@
-# HypergraphMatching
+# Hyper-graph Matching
 This is the MATLAB code for reproducing game theoretical hyper-graph matching of multi-source images.
 
 # Citation
