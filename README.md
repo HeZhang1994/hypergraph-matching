@@ -1,8 +1,8 @@
 # HypergraphMatching
-This is a demo for reproducing hyper-graph matching of multi-source images.
+This is the MATLAB code for reproducing game theoretical hyper-graph matching of multi-source images.
 
-# License and Citation
-All code is provided for research purposes only and without any warranty. Any commercial use requires our consent. When using the code in your research work, please cite the following paper: 
+# Citation
+All code is provided for research purposes only. If you use the code in your research work, please cite the following paper: 
 
     @article{hz17HyperGraphMatch, 
       title      = {Game theoretic hypergraph matching for multi-source image correspondences}, 
