@@ -22,3 +22,7 @@ Execute the `siftWin32.exe` file in Windows operating system before running the 
 
 # Running
 Run the `run_matching.m` file in the MATLAB software.
+
+Parameters:
+
+* aaa
