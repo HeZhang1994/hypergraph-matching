@@ -17,4 +17,8 @@ All code is provided for research purposes only. If you use the code in your res
 # Envirment
 The code has been tested on a PC machine with Windows 7/8 system, using MATLAB2013a. 
 
-Running this code requires firstly the executation of the `siftWin32.exe` on Windows operating system!
+# Compiling
+Double click the `siftWin32.exe` file under Windows operating system!
+
+# Running
+Run the `run_matching.m` file in the MATLAB software.
