@@ -76,7 +76,7 @@ solution=[car_solution(4) car_solution(3) car_solution(2) car_solution(1) car_so
 appendimages(im1,im2,cor1,cor2);
 
 
-%% Hyper-graph Matching 
+%% Hyper-graph Matching
 Nv =size(coordinate1,1);
 valCT = zeros(Nv,1);
 indCT = zeros(Nv,3);
