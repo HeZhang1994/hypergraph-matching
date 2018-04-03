@@ -14,7 +14,7 @@ All code is provided for research purposes only. If you use the code in your res
       publisher  = {Elsevier} 
     } 
 
-# Envirment
+# Environment
 The code has been tested on a PC machine with Windows 7/8 system (32/64-bit), using MATLAB2013a. 
 
 # Compiling
@@ -25,4 +25,4 @@ Run the `run_matching.m` file in MATLAB.
 
 Change the parameters `distRatio`, `imresizerate1` and `imresizerate2` to large value (less than 1) will generate more key points and low matching speed. 
 
-It should be noted that the runtime reported in our paper did not include the establishment of the hyper-graph (i.e., the cost time of computing weights of hyper-edges).
+It should be noted that the runtime reported in our paper did not include the establishment of hyper-graphs (i.e., the cost time of computing weights of hyper-edges).
