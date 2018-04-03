@@ -25,3 +25,4 @@ Run the `run_matching.m` file in MATLAB.
 
 Change the parameters `distRatio`, `imresizerate1` and `imresizerate2` to large value (less than 1) will generate more key points and low matching speed. 
 
+It should be noted that the runtime reported in our paper did not include the establishment of the hyper-graph (i.e., the cost time of computing weights of hyper-edges).
