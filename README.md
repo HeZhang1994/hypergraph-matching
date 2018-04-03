@@ -15,4 +15,6 @@ All code is provided for research purposes only. If you use the code in your res
     } 
 
 # Envirment
-The code ...
+The code has been tested on a PC machine with Windows 7/8 system, using MATLAB2013a. 
+
+Running this code requires the executation of the `siftWin32.exe` program file, which can only execute on Windows operating system!
