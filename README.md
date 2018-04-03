@@ -4,7 +4,7 @@ This is a simple version of the MATLAB code for hyper-graph matching of paper [G
 # Citation
 All code is provided for research purposes only. If you use the code in your research work, please cite the following paper: 
 
-    @article{hz17HyperGraphMatch, 
+    @Article{hz17HypergraphMatch, 
       title      = {Game theoretic hypergraph matching for multi-source image correspondences}, 
       author     = {H. Zhang and P. Ren}, 
       journal    = {Pattern Recognition Letters}, 
