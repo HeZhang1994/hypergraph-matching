@@ -22,3 +22,5 @@ Execute the `siftWin32.exe` file in Windows operating system before running the 
 
 # Running
 Run the `run_matching.m` file in MATLAB.
+
+Change the parameter `distRatio` to large value (less than 1) will generate more SIFT key points and slow matching speed.
