@@ -15,10 +15,10 @@ All code is provided for research purposes only. If you use the code in your res
     } 
 
 # Envirment
-The code has been tested on a PC machine with Windows 7/8 system (64-bit), using MATLAB2013a. 
+The code has been tested on a PC machine with Windows 7/8 system (32/64-bit), using MATLAB2013a. 
 
 # Compiling
-Double click the `siftWin32.exe` file under Windows operating system!
+Execute the `siftWin32.exe` file in Windows operating system before running the hyper-graph matching code!
 
 # Running
 Run the `run_matching.m` file in the MATLAB software.
