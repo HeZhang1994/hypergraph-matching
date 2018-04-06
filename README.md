@@ -6,7 +6,7 @@ All code is provided for research purposes only. If you use the code in your res
 
     @Article{hz17HypergraphMatch, 
       title      = {Game theoretic hypergraph matching for multi-source image correspondences}, 
-      author     = {H. Zhang and P. Ren}, 
+      author     = {Zhang, He and Ren, Peng}, 
       journal    = {Pattern Recognition Letters}, 
       volume     = {87}, 
       pages      = {87--95}, 
@@ -23,6 +23,6 @@ Execute the `siftWin32.exe` file in Windows operating system before running the 
 # Running
 Run the `run_matching.m` file in MATLAB.
 
-Change the parameters `distRatio`, `imresizerate1` and `imresizerate2` to large value (less than 1) will generate more key points and low matching speed. 
+Change the parameters `distRatio`, `imresizerate1` and `imresizerate2` to large value (less than 1) will generate more key points and lead to low matching speed. 
 
 It should be noted that the runtime reported in our paper did not include the establishment of hyper-graphs (i.e., the cost time of computing weights of hyper-edges).
