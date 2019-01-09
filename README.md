@@ -1,21 +1,21 @@
 # Hyper-graph Matching
-This is the MATLAB code for hyper-graph matching of paper [Game theoretic hypergraph matching for multi-source image correspondences](https://www.sciencedirect.com/science/article/pii/S0167865516301738) pubilised on Pattern Recognition Letters.
+This is the MATLAB implementation of hyper-graph matching of the paper [Game theoretic hypergraph matching for multi-source image correspondences](https://www.sciencedirect.com/science/article/pii/S0167865516301738) pubilised on Pattern Recognition Letters.
 
 # Environment
-The code has been tested on a PC machine with Windows 7/8 system (32/64-bit), using MATLAB2013a. 
+The code has been tested on a PC machine with Windows 7 system (64-bit), using MATLAB2013a. 
 
 # Compiling
-Execute the `siftWin32.exe` file in Windows operating system before running the hyper-graph matching code.
+Execute `siftWin32.exe` on **Windows** operating system before running the hyper-graph matching code.
 
 # Running
-Run the `run_matching.m` file in MATLAB.
+Run the `run_matching.m` file on MATLAB.
 
-Change the parameters `distRatio`, `imresizerate1` and `imresizerate2` to large value (less than 1) will generate more key points and lead to low matching speed. 
+Tune parameters (i.e., `distRatio`, `imresizerate1` and `imresizerate2`) to large value (less than 1) will generate more key points and lead to low matching speed. 
 
-It should be noted that the runtime reported in our paper did not include the establishment of hyper-graphs (i.e., the cost time of computing weights of hyper-edges).
+It should be noted that the runtime reported in our paper did not include the establishment of hyper-graphs (i.e., the time of constructing hyper-edges).
 
 # Citation
-All code is provided for research purposes only. If you use the code in your research work, please cite the following paper: 
+This MATLAB implementation is provided for research purposes only. If you use the code in your research work, please cite the following paper: 
 
     @Article{hz17HypergraphMatch, 
       title      = {Game theoretic hypergraph matching for multi-source image correspondences}, 
@@ -26,3 +26,4 @@ All code is provided for research purposes only. If you use the code in your res
       year       = {2017}, 
       publisher  = {Elsevier} 
     } 
+
