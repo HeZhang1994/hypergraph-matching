@@ -1,5 +1,5 @@
 # Hyper-graph Matching
-This is the **MATLAB** implementation of hyper-graph matching of the paper [Game theoretic hypergraph matching for multi-source image correspondences](https://www.sciencedirect.com/science/article/pii/S0167865516301738) pubilised on Pattern Recognition Letters.
+This is the **MATLAB** implementation of hyper-graph matching of the paper [Game theoretic hypergraph matching for multi-source image correspondences](https://www.sciencedirect.com/science/article/pii/S0167865516301738) pubilised on <i>Pattern Recognition Letters</i>.
 
 # Environment
 The code has been tested on a PC machine with **Windows 7 system (64-bit)**, using **MATLAB2013a**. 
@@ -26,4 +26,3 @@ This MATLAB implementation is provided for research purposes only. If you use th
       year       = {2017}, 
       publisher  = {Elsevier} 
     } 
-
