@@ -32,4 +32,4 @@ This MATLAB implementation is provided for research purposes only. If you use th
       publisher  = {Elsevier}
     }
 
-<i>Last updated: 19/01/2019</i>
+<i>Last updated: 28/01/2019</i>
