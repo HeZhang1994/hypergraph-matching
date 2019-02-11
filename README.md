@@ -4,7 +4,7 @@ This is the **MATLAB** implementation of hyper-graph matching of the paper [Game
 
 ## Environment
 
-The code has been tested on **Windows 7** OS (64-bit), using **MATLAB2013a** software.
+The code has been tested on **Windows 7** (64-bit) operating system, using **MATLAB2013a** software.
 
 ## Compiling
 
