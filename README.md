@@ -18,7 +18,7 @@ Note: The running time reported in our paper dose not include the time of establ
 
 ## Citation
 
-If you use this implementation in your research work, please cite the following paper:
+Please cite the following paper in your work when using this implementation:
 
     @Article{hz17HypergraphMatch,
       title      = {Game theoretic hypergraph matching for multi-source image correspondences},
