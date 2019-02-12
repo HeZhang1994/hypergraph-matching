@@ -18,7 +18,7 @@ The code has been tested on **Windows 7** (64-bit) operating system (OS) with **
 
 ## Citation
 
-Please cite the following paper in your work when using this implementation. :-)
+Please cite the following paper in your work when using this implementation.
 
     @Article{hz17HypergraphMatch,
       title      = {Game theoretic hypergraph matching for multi-source image correspondences},
