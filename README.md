@@ -1,6 +1,6 @@
 # Hyper-graph Matching
 
-This is a **MATLAB** implementation of hyper-graph matching for image correspondences as presented in [Game theoretic hypergraph matching for multi-source image correspondences](https://www.sciencedirect.com/science/article/pii/S0167865516301738).
+This is a **MATLAB** implementation of hyper-graph matching for image correspondences as presented in [Game theoretic hypergraph matching for multi-source image correspondences](https://www.researchgate.net/publication/305696390_Game_Theoretic_Hypergraph_Matching_for_Multi-source_Image_Correspondences).
 
 ## Environment
 
@@ -8,17 +8,17 @@ The code has been tested on **Windows 7** (64-bit) operating system (OS) with **
 
 ## Usage
 
-Execute `siftWin32.exe` (**Windows** OS is required) before running the hyper-graph matching code.
+1. Execute `siftWin32.exe` (**Windows** OS is required) before running the hyper-graph matching code.
 
-Run `run_matching.m` on MATLAB for image correspondences based on hyper-graph matching.
+2. Run `run_matching.m` on MATLAB for image correspondences based on hyper-graph matching.
 
-Note: Tuning **parameters** (i.e., `distRatio`, `imresizerate1` and `imresizerate2`) to larger value (less than 1) will generate more key points and result in low matching speed.
+- Note: Tuning **parameters** (i.e., `distRatio`, `imresizerate1` and `imresizerate2`) to larger value (less than 1) will generate more key points and result in low matching speed.
 
-Note: The running time reported in our paper dose not include the time of establishing hyper-graphs (i.e., the time of computing hyper-edges).
+- Note: The running time reported in our paper dose not include the time of establishing hyper-graphs (i.e., the time of computing hyper-edges).
 
 ## Citation
 
-Please cite the following paper in your work when using this implementation:
+Please cite the following paper in your work when using this implementation. :-)
 
     @Article{hz17HypergraphMatch,
       title      = {Game theoretic hypergraph matching for multi-source image correspondences},
