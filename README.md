@@ -1,26 +1,24 @@
 # Hyper-graph Matching
 
-This is the **MATLAB** implementation of hyper-graph matching of the paper [Game theoretic hypergraph matching for multi-source image correspondences](https://www.sciencedirect.com/science/article/pii/S0167865516301738) pubilised on <i>Pattern Recognition Letters</i>.
+This is a **MATLAB** implementation of hyper-graph matching for image correspondences as presented in [Game theoretic hypergraph matching for multi-source image correspondences](https://www.sciencedirect.com/science/article/pii/S0167865516301738).
 
 ## Environment
 
-The code has been tested on **Windows 7** (64-bit) operating system, using **MATLAB2013a** software.
+The code has been tested on **Windows 7** (64-bit) operating system (OS) with **MATLAB2013a**.
 
-## Compiling
+## Usage
 
 Execute `siftWin32.exe` (**Windows** OS is required) before running the hyper-graph matching code.
 
-## Running
+Run `run_matching.m` on MATLAB for image correspondences based on hyper-graph matching.
 
-Run the `run_matching.m` file on MATLAB.
+Note: Tuning **parameters** (i.e., `distRatio`, `imresizerate1` and `imresizerate2`) to larger value (less than 1) will generate more key points and result in low matching speed.
 
-Note: Tuning parameters (i.e., `distRatio`, `imresizerate1` and `imresizerate2`) to large value (less than 1) will generate more key points and result in low matching speed.
-
-Note: The running time reported in our paper dose not include the establishment of hyper-graphs (i.e., the computational time of constructing hyper-edges).
+Note: The running time reported in our paper dose not include the time of establishing hyper-graphs (i.e., the time of computing hyper-edges).
 
 ## Citation
 
-This MATLAB implementation is provided for research purposes only. If you use the code in your research work, please cite the following paper:
+If you use this implementation in your research work, please cite the following paper:
 
     @Article{hz17HypergraphMatch,
       title      = {Game theoretic hypergraph matching for multi-source image correspondences},
@@ -32,4 +30,4 @@ This MATLAB implementation is provided for research purposes only. If you use th
       publisher  = {Elsevier}
     }
 
-<i>Last updated: 11/02/2019</i>
+<i>Last updated: 12/02/2019</i>
