@@ -1,6 +1,6 @@
 # Hyper-graph Matching
 
-This is a **MATLAB** implementation of hyper-graph matching for image correspondences as presented in [Game theoretic hypergraph matching for multi-source image correspondences](https://www.researchgate.net/publication/305696390_Game_Theoretic_Hypergraph_Matching_for_Multi-source_Image_Correspondences). 
+This is a **MATLAB** implementation for hyper-graph matching for image correspondences as presented in [Game theoretic hypergraph matching for multi-source image correspondences](https://www.researchgate.net/publication/305696390_Game_Theoretic_Hypergraph_Matching_for_Multi-source_Image_Correspondences). 
 
 ## Environment
 
