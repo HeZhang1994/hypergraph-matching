@@ -30,7 +30,7 @@ Please cite the following paper in your work when using this implementation.
       publisher  = {Elsevier}
     }
 
-</br>
+<br>
 
 <i>Please star this repository if you found its content useful. Thank you very much.</i>
 
