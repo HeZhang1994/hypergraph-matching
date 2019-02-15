@@ -20,7 +20,7 @@ The code has been tested on **Windows 7** (64-bit) operating system (OS) with **
 
 Please cite the following paper in your work when using this implementation.
 
-    @Article{hz17HypergraphMatch,
+    @Article{zhang17hypergraphmatch,
       title      = {Game theoretic hypergraph matching for multi-source image correspondences},
       author     = {Zhang, He and Ren, Peng},
       journal    = {Pattern Recognition Letters},
@@ -36,4 +36,5 @@ Please cite the following paper in your work when using this implementation.
 
 <i>如果该程序对您有帮助，请为该程序加星支持哈，非常感谢。</i>
 
-<i>Last updated: 14/02/2019</i>
+<i>Last updated: 15/02/2019</i>
+
