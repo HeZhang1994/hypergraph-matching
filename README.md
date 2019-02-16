@@ -1,5 +1,7 @@
 # Hyper-graph Matching
 
+[![image](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://github.com/HeZhang1994/hypergraph-matching/blob/master/LICENSE)
+
 This is a **MATLAB** implementation for **hyper-graph matching** and image correspondences as presented in [Game theoretic hypergraph matching for multi-source image correspondences](https://www.researchgate.net/publication/305696390_Game_Theoretic_Hypergraph_Matching_for_Multi-source_Image_Correspondences). 
 
 ## Environment
@@ -36,5 +38,5 @@ Please cite the following paper in your work when using this implementation.
 
 <i>如果该程序对您有帮助，请为该程序加星支持哈，非常感谢。</i>
 
-<i>Last updated: 15/02/2019</i>
+<i>Last updated: 16/02/2019</i>
 
