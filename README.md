@@ -1,7 +1,7 @@
 # Hyper-graph Matching
 
-[![image](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://github.com/HeZhang1994/hypergraph-matching/blob/master/LICENSE)
-[![image](https://img.shields.io/badge/platform-windows%207-lightgrey.svg)]()
+[![image](https://img.shields.io/badge/license-MIT-lightgrey.svg)]()
+[![image](https://img.shields.io/badge/platform-windows-lightgrey.svg)]()
 [![image](https://img.shields.io/badge/matlab-2013a-blue.svg)]()
 
 This is a **MATLAB** implementation for **hyper-graph matching** and image correspondences as presented in [Game theoretic hypergraph matching for multi-source image correspondences](https://www.researchgate.net/publication/305696390_Game_Theoretic_Hypergraph_Matching_for_Multi-source_Image_Correspondences). 
