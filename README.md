@@ -6,10 +6,6 @@
 
 This is a **MATLAB** implementation for **hyper-graph matching** and image correspondences as presented in [Game theoretic hypergraph matching for multi-source image correspondences](https://www.researchgate.net/publication/305696390_Game_Theoretic_Hypergraph_Matching_for_Multi-source_Image_Correspondences). 
 
-## Environment
-
-The code has been tested on **Windows 7** (64-bit) operating system (OS) with **MATLAB2013a**.
-
 ## Usage
 
 1. Execute `siftWin32.exe` (**Windows** OS is required) before running the hyper-graph matching code.
