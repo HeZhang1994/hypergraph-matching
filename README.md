@@ -20,7 +20,7 @@ Note:
 
 - Tune parameters to larger value (from 0 to 1) will generate more key points and result in low matching speed.
 
-- The running time reported in the paper dose not include the time of establishing hyper-graphs (e.g., computing hyper-edges).
+- The running time of establishing hyper-graphs (e.g., computing hyper-edges) is not reported in the paper.
 
 ## Citation
 
