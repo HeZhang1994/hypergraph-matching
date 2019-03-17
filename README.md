@@ -16,9 +16,9 @@ This is a **MATLAB** implementation of **hyper-graph matching** based image corr
 
 Note:
 
-- Tuning **parameters** (i.e., `distRatio`, `imresizerate1` and `imresizerate2`) to larger value (less than 1) will generate more key points and result in low matching speed.
+- Tune **parameters** (i.e., `distRatio`, `imresizerate1` and `imresizerate2`) to larger value (from 0 to 1) will generate more key points and result in low matching speed.
 
-- The running time reported in the paper dose not include the time of establishing hyper-graphs (i.e., the time of computing hyper-edges).
+- The running time reported in the paper dose not include the time of computing hyper-edges and establishing hyper-graphs.
 
 ## Citation
 
