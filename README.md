@@ -6,7 +6,7 @@
 [![image](https://img.shields.io/badge/status-stable-brightgreen.svg)]()
 [![image](https://img.shields.io/badge/build-passing-brightgreen.svg)]()
 
-This is a **MATLAB** implementation of **hyper-graph matching** for image correspondences as presented in [Game theoretic hypergraph matching for multi-source image correspondences](https://www.researchgate.net/publication/305696390_Game_Theoretic_Hypergraph_Matching_for_Multi-source_Image_Correspondences).
+This is a **Matlab** implementation of **hyper-graph matching** for refining multi-source image correspondences as presented in [Game theoretic hypergraph matching for multi-source image correspondences](https://www.researchgate.net/publication/305696390_Game_Theoretic_Hypergraph_Matching_for_Multi-source_Image_Correspondences).
 
 ## Usage
 
@@ -14,7 +14,7 @@ This is a **MATLAB** implementation of **hyper-graph matching** for image corres
 
 2. Specify parameters `distRatio`, `imresizerate1` and `imresizerate2` in `run_matching.m`.
 
-3. Run `run_matching.m` on MATLAB to match key points in two multi-source images.
+3. Run `run_matching.m` to match key points between two multi-source images and refine the matching results.
 
 Note:
 
