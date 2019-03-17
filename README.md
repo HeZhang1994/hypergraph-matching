@@ -6,21 +6,23 @@
 [![image](https://img.shields.io/badge/status-stable-brightgreen.svg)]()
 [![image](https://img.shields.io/badge/build-passing-brightgreen.svg)]()
 
-This is a **MATLAB** implementation for **hyper-graph matching** and image correspondences as presented in [Game theoretic hypergraph matching for multi-source image correspondences](https://www.researchgate.net/publication/305696390_Game_Theoretic_Hypergraph_Matching_for_Multi-source_Image_Correspondences). 
+This is a **MATLAB** implementation of **hyper-graph matching** based image correspondences as presented in [Game theoretic hypergraph matching for multi-source image correspondences](https://www.researchgate.net/publication/305696390_Game_Theoretic_Hypergraph_Matching_for_Multi-source_Image_Correspondences).
 
 ## Usage
 
 1. Execute `siftWin32.exe` (**Windows** OS is required) before running the hyper-graph matching code.
 
-2. Run `run_matching.m` on MATLAB for image correspondences based on hyper-graph matching.
+2. Run `run_matching.m` on MATLAB.
 
-- Note: Tuning **parameters** (i.e., `distRatio`, `imresizerate1` and `imresizerate2`) to larger value (less than 1) will generate more key points and result in low matching speed.
+Note:
 
-- Note: The running time reported in our paper dose not include the time of establishing hyper-graphs (i.e., the time of computing hyper-edges).
+- Tuning **parameters** (i.e., `distRatio`, `imresizerate1` and `imresizerate2`) to larger value (less than 1) will generate more key points and result in low matching speed.
+
+- The running time reported in the paper dose not include the time of establishing hyper-graphs (i.e., the time of computing hyper-edges).
 
 ## Citation
 
-Please cite the following paper in your work when using this implementation.
+Please cite the following paper if you used this implementation in your work.
 
     @Article{zhang17hypergraphmatch,
       title      = {Game theoretic hypergraph matching for multi-source image correspondences},
@@ -38,5 +40,5 @@ Please cite the following paper in your work when using this implementation.
 
 <i>如果该程序对您有帮助，请为该程序加星支持哈，非常感谢。</i>
 
-<i>Last updated: 17/02/2019</i>
+<i>Last updated: 17/03/2019</i>
 
