@@ -10,7 +10,7 @@ This is a **Matlab** implementation of **hyper-graph matching** based multi-sour
 
 ## Dependency
 
-* __sift__
+* __sift win32__
 
 Install SIFT libraries on **Windows** system (32-bit/64-bit) by executing `siftWin32.exe`.
 
