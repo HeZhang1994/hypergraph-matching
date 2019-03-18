@@ -10,17 +10,17 @@ This is a **Matlab** implementation of **hyper-graph matching** based multi-sour
 
 ## Usage
 
-1. Execute `siftWin32.exe` (**Windows** OS is required) before running code.
+1. Execute `siftWin32.exe` to install SIFT libraries on **Windows** system (32-bit/64-bit).
 
 2. Specify parameters `distRatio`, `imresizerate1` and `imresizerate2` in `run_matching.m`.
 
-3. Run `run_matching.m` to match key points extracted in two multi-source images.
+3. Run `run_matching.m` to match key points in two multi-source images.
 
 Notes:
 
-- Tuning parameters to larger value (from 0 to 1) will extract more key points and result in lower matching speed.
+- Tuning parameters to larger value (from 0 to 1) will generate more key points and result in lower matching speed.
 
-- The running time of establishing hyper-graphs and computing hyper-edge weights is not counted in the paper.
+- The running time of establishing hyper-graphs and computing the weight of hyper-edges is not counted in the paper.
 
 ## Citation
 
