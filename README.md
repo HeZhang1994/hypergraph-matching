@@ -6,7 +6,9 @@
 [![image](https://img.shields.io/badge/status-stable-brightgreen.svg)]()
 [![image](https://img.shields.io/badge/build-passing-brightgreen.svg)]()
 
-This is a **Matlab** implementation of **hyper-graph matching** based multi-source image correspondences. The formulation of this method was presented in [Game theoretic hypergraph matching for multi-source image correspondences](https://www.researchgate.net/publication/305696390_Game_Theoretic_Hypergraph_Matching_for_Multi-source_Image_Correspondences).
+This is a **Matlab** implementation of **hyper-graph matching** based multi-source image correspondences. 
+
+The method is presented in [Game theoretic hypergraph matching for multi-source image correspondences (2017)](https://www.researchgate.net/publication/305696390_Game_Theoretic_Hypergraph_Matching_for_Multi-source_Image_Correspondences).
 
 ## Dependency
 
@@ -18,15 +20,15 @@ Install SIFT libraries on **Windows** system (32-bit/64-bit) by executing `siftW
 
 1. Prepare multi-source image pairs in a folder (e.g., `images/`).
 
-2. Specify parameters `distRatio`, `imresizerate1` and `imresizerate2` in `run_matching.m` (see comments).
+2. Specify parameters (`distRatio`, `imresizerate1` and `imresizerate2`) in `run_matching.m` (see comments).
 
 3. Run `run_matching.m` to match key points in two multi-source images via hyper-graph matching.
 
 Notes:
 
-- Tuning 3 parameters to larger values (0 to 1) will generate more key points and lead to lower matching speed.
+- Tuning `distRatio` to larger value (0 to 1) will generate more key points and lead to lower matching speed.
 
-- The running time of establishing hyper-graphs and computing the weight of hyper-edges is not counted in the paper.
+- The running time of establishing hyper-graphs and calculating the weight of hyper-edges is not counted in the paper.
 
 ## Citation
 
@@ -48,4 +50,4 @@ Please cite the following paper if you used this implementation in your work.
 
 <i>如果该程序对您有帮助，请为该程序加星支持哈，非常感谢。^_^</i>
 
-<i>Last updated: 18/03/2019</i>
+<i>Last updated: 20/03/2019</i>
