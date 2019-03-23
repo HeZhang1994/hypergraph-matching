@@ -8,7 +8,7 @@
 
 This is a **Matlab** implementation of **hyper-graph matching** based multi-source image correspondences. 
 
-The method is presented in [Game theoretic hypergraph matching for multi-source image correspondences (2017)](https://www.researchgate.net/publication/305696390_Game_Theoretic_Hypergraph_Matching_for_Multi-source_Image_Correspondences).
+The method is presented in [Game theoretic hypergraph matching for multi-source image correspondences](https://www.researchgate.net/publication/305696390_Game_Theoretic_Hypergraph_Matching_for_Multi-source_Image_Correspondences).
 
 ## Dependency
 
@@ -50,4 +50,4 @@ Please cite the following paper if you used this implementation in your work.
 
 <i>如果该程序对您有帮助，请为该程序加星支持哈，非常感谢。^_^</i>
 
-<i>Last updated: 20/03/2019</i>
+<i>Last updated: 23/03/2019</i>
