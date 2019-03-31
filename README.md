@@ -1,6 +1,6 @@
 # Hyper-graph Matching
 
-[![image](https://img.shields.io/badge/license-MIT-lightgrey.svg)]()
+[![image](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/HeZhang1994/hypergraph-matching/blob/master/LICENSE)
 [![image](https://img.shields.io/badge/platform-windows-lightgrey.svg)]()
 [![image](https://img.shields.io/badge/matlab-2013a-blue.svg)]()
 [![image](https://img.shields.io/badge/status-stable-brightgreen.svg)]()
