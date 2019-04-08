@@ -26,7 +26,7 @@ Install SIFT libraries on **Windows** system (32-bit/64-bit) by executing `siftW
 
 Notes:
 
-- Tuning `distRatio` to larger value (0 to 1) will generate more key points and lead to lower matching speed.
+- Tuning `distRatio` to larger value in [0, 1] will generate more key points and lead to lower matching speed.
 
 - The running time of establishing hyper-graphs and calculating the weight of hyper-edges is not counted in the paper.
 
@@ -50,4 +50,4 @@ Please cite the following paper if you used this implementation in your work.
 
 <i>如果该程序对您有帮助，请为该程序加星支持哈，非常感谢。^_^</i>
 
-<i>Last updated: 01/04/2019</i>
+<i>Last updated: 08/04/2019</i>
