@@ -8,7 +8,7 @@
 
 This is a **MATLAB** implementation of **hyper-graph matching** for multi-source image correspondences. 
 
-The method is presented in [Game theoretic hypergraph matching for multi-source image correspondences](https://www.researchgate.net/publication/305696390_Game_Theoretic_Hypergraph_Matching_for_Multi-source_Image_Correspondences).
+The method is presented in paper: [Game theoretic hypergraph matching for multi-source image correspondences](https://www.researchgate.net/publication/305696390_Game_Theoretic_Hypergraph_Matching_for_Multi-source_Image_Correspondences).
 
 ## Dependency
 
@@ -18,17 +18,17 @@ Install SIFT libraries on **Windows** system (32-bit/64-bit) by executing `siftW
 
 ## Usage
 
-1. Prepare multi-source image pairs in a folder (e.g., `images/`).
+1. Prepare pairs of multi-source images in a folder (e.g., `images/`).
 
 2. Specify parameters (`distRatio`, `imresizerate1` and `imresizerate2`) in `run_matching.m` (see comments).
 
-3. Run `run_matching.m` to match key points in two multi-source images via hyper-graph matching.
+3. Run `run_matching.m` to match key points in pairs of multi-source images via hyper-graph matching.
 
 Notes:
 
 - Tuning `distRatio` to larger value in [0, 1] will generate more key points and lead to lower matching speed.
 
-- The running time of establishing hyper-graphs and calculating the weight of hyper-edges is not counted in the paper.
+- The running time does not include establishing hyper-graphs and calculating the weight of hyper-edges.
 
 ## Citation
 
@@ -49,5 +49,3 @@ Please cite the following paper if you used this implementation in your work.
 <i>Please star this repository if you found its content useful. Thank you very much. ^_^</i>
 
 <i>如果该程序对您有帮助，请为该程序加星支持哈，非常感谢。^_^</i>
-
-<i>Last updated: 14/04/2019</i>
