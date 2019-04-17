@@ -14,7 +14,7 @@ The method is presented in the paper: [Game theoretic hypergraph matching for mu
 
 * __sift win32__
 
-Install SIFT libraries on **Windows** system (32-bit/64-bit) by executing `siftWin32.exe`.
+To install SIFT libraries on **Windows** system (32-bit/64-bit), executing `siftWin32.exe` software.
 
 ## Usage
 
