@@ -4,7 +4,6 @@
 [![image](https://img.shields.io/badge/platform-windows-lightgrey.svg)]()
 [![image](https://img.shields.io/badge/matlab-2013a-blue.svg)]()
 [![image](https://img.shields.io/badge/status-stable-brightgreen.svg)]()
-[![image](https://img.shields.io/badge/build-passing-brightgreen.svg)]()
 
 This is a **MATLAB** implementation of **hypergraph matching** for multi-source image correspondences. 
 
