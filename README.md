@@ -7,29 +7,29 @@
 
 [*English Version*](https://github.com/HeZhang1994/hypergraph-matching/blob/master/README.md) | [*中文版*](https://github.com/HeZhang1994/hypergraph-matching/blob/master/README-cn.md)
 
-This is a **MATLAB** implementation of **hypergraph matching** for multi-source image correspondences. 
+This is a **MATLAB** implementation of the **hypergraph matching** algorithm for multi-source image correspondences. 
 
-The method is presented in the paper: [Game theoretic hypergraph matching for multi-source image correspondences](https://www.researchgate.net/publication/305696390_Game_Theoretic_Hypergraph_Matching_for_Multi-source_Image_Correspondences).
+This algorithm is published in the paper: [Game theoretic hypergraph matching for multi-source image correspondences](https://www.researchgate.net/publication/305696390_Game_Theoretic_Hypergraph_Matching_for_Multi-source_Image_Correspondences).
 
 ## Dependency
 
 * __sift win32__
 
-To install SIFT libraries on **Windows** system (32-bit/64-bit), executing `siftWin32.exe` software.
+Execute `siftWin32.exe` software to install SIFT libraries on **Windows** system (32-bit/64-bit).
 
 ## Usage
 
-1. Prepare pairs of multi-source images in a folder (e.g., `images/`).
+1. Prepare several multi-source image pairs in a folder (e.g., `images/`).
 
-2. Specify parameters (`distRatio`, `imresizerate1` and `imresizerate2`) in `run_matching.m` (see comments).
+2. Set parameters (`distRatio`, `imresizerate1` and `imresizerate2`) in `run_matching.m` (see comments).
 
-3. Run `run_matching.m` to match key points of multi-source images via hypergraph matching.
+3. Run `run_matching.m` to match key points of multi-source image pairs via hypergraph matching algorithm.
 
 Notes:
 
-- Tuning `distRatio` to larger value in [0, 1] will generate more key points and lead to lower matching speed.
+- Tuning `distRatio` to a larger value in [0, 1] will generate more key points and lower the matching speed.
 
-- The running time does not include establishing hypergraphs and calculating the weight of edges.
+- The reported running time does not include the establishment of hypergraphs and the calculation of edge weights.
 
 ## Citation
 
@@ -47,6 +47,6 @@ Please cite the following paper if you used this implementation in your work.
 
 <br>
 
-<i>Please star this repository if you found its content useful. Thank you very much. ^_^</i>
+<i>Please report an issue if you have any question about this repository, I will respond ASAP.</i>
 
-<i>如果该程序对您有帮助，请为该程序加星支持哈，非常感谢。^_^</i>
+<i>Please star this repository if you found its content useful. Thank you very much. ^_^</i>
