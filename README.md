@@ -5,6 +5,8 @@
 [![image](https://img.shields.io/badge/matlab-2013a-blue.svg)]()
 [![image](https://img.shields.io/badge/status-stable-brightgreen.svg)]()
 
+[*English Version*](https://github.com/HeZhang1994/hypergraph-matching/blob/master/README.md) | [*中文版*](https://github.com/HeZhang1994/hypergraph-matching/blob/master/README-cn.md)
+
 This is a **MATLAB** implementation of **hypergraph matching** for multi-source image correspondences. 
 
 The method is presented in the paper: [Game theoretic hypergraph matching for multi-source image correspondences](https://www.researchgate.net/publication/305696390_Game_Theoretic_Hypergraph_Matching_for_Multi-source_Image_Correspondences).
